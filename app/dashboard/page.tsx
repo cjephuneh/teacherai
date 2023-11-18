@@ -5,7 +5,7 @@ const Dashboard = () => {
     return (
         <aside className="flex flex-col w-64 h-screen px-4 py-8 overflow-y-auto bg-white border-r rtl:border-r-0 rtl:border-l dark:bg-gray-900 dark:border-gray-700">
             <a href="#">
-                <img className="w-auto h-6 sm:h-7" src="https://merakiui.com/images/logo.svg" alt=""/>
+                <img className="w-auto h-6 sm:h-7" src="https://flowbite.com/docs/images/logo.svg" alt=""/>
             </a>
 
             <div className="relative mt-6">
