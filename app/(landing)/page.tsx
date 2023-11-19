@@ -10,7 +10,7 @@ const LandingPage = () => {
     <div className="h-full bg-red">
       <LandingNavbar />
       <LandingHero />
-      <Proof />
+      <Proof/>
       <HowItWorks />
       <LandingContent />
       <Footer />

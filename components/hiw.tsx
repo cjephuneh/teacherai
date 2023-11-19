@@ -4,7 +4,7 @@ import React from 'react';
 
 const HowItWorks = () => {
     return (
-        <section className="py-10 bg-white sm:py-16 lg:py-24">
+        <section className="py-10 bg-white sm:py-16  lg:py-24">
             <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
                 <div className="max-w-2xl mx-auto text-center">
                     <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">How does it work?</h2>
